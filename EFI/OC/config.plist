@@ -129,15 +129,11 @@
 				<key>Enabled</key>
 				<false/>
 				<key>OemTableId</key>
-				<data>
-				Q3B1UG0AAAA=
-				</data>
+				<data>Q3B1UG0AAAA=</data>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				U1NEVA==
-				</data>
+				<data>U1NEVA==</data>
 			</dict>
 			<dict>
 				<key>All</key>
@@ -147,15 +143,11 @@
 				<key>Enabled</key>
 				<false/>
 				<key>OemTableId</key>
-				<data>
-				Q3B1MElzdAA=
-				</data>
+				<data>Q3B1MElzdAA=</data>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				U1NEVA==
-				</data>
+				<data>U1NEVA==</data>
 			</dict>
 		</array>
 		<key>Patch</key>
@@ -168,31 +160,23 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				X1ExMQ==
-				</data>
+				<data>X1ExMQ==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				WFExMQ==
-				</data>
+				<data>WFExMQ==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -202,31 +186,23 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				X1ExMg==
-				</data>
+				<data>X1ExMg==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				WFExMg==
-				</data>
+				<data>WFExMg==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -236,31 +212,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				X09TSQ==
-				</data>
+				<data>X09TSQ==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				WE9TSQ==
-				</data>
+				<data>WE9TSQ==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -270,32 +238,23 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				R0ZYMA==
-				</data>
+				<data>R0ZYMA==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				SUdQVQ==
-				</data>
+				<data>SUdQVQ==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				RFNEVA==
-				</data>
+				<data>RFNEVA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -305,32 +264,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				U01FRQE=
-				</data>
+				<data>U01FRQE=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>Replace</key>
-				<data>
-				WE1FRQE=
-				</data>
+				<data>WE1FRQE=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -369,8 +319,7 @@
 			</dict>
 		</array>
 		<key>Patch</key>
-		<array>
-		</array>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>AllowRelocationBlock</key>
@@ -418,101 +367,53 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>
-				AAAbWQ==
-				</data>
+				<data>AAAbWQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>AAPL00,override-no-connect</key>
-				<data>
-				AP///////wAw5LwFAAAAAAAbAQSlHxF46uP1o1FHnCYQ
-				UFQAAAABAQEBAQEBAQEBAQEBAQEBpqYAtPBwPoA8JDUA
-				Na4QAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gBMRyBE
-				aXNwbGF5CiAgAAAA/gBMUDEzOVVEMS1TUEMyAGo=
-				</data>
+				<data>AP///////wAw5LwFAAAAAAAbAQSlHxF46uP1o1FHnCYQUFQAAAABAQEBAQEBAQEBAQEBAQEBpqYAtPBwPoA8JDUANa4QAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gBMRyBEaXNwbGF5CiAgAAAA/gBMUDEzOVVEMS1TUEMyAGo=</data>
 				<key>device-id</key>
-				<data>
-				G1kAAA==
-				</data>
+				<data>G1kAAA==</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>enable-hdmi20</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>enable-lspcon-support</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-busid</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>framebuffer-con0-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-pipe</key>
-				<data>
-				CAAAAA==
-				</data>
+				<data>CAAAAA==</data>
 				<key>framebuffer-con1-alldata</key>
-				<data>
-				AQUSAAAIAACHAQAAAgQSAAAEAACHAQAA/wAAAAEAAAAg
-				AAAA
-				</data>
+				<data>AQUSAAAIAACHAQAAAgQSAAAEAACHAQAA/wAAAAEAAAAgAAAA</data>
 				<key>framebuffer-con1-busid</key>
-				<data>
-				BAAAAA==
-				</data>
+				<data>BAAAAA==</data>
 				<key>framebuffer-con1-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-pipe</key>
-				<data>
-				CgAAAA==
-				</data>
+				<data>CgAAAA==</data>
 				<key>framebuffer-con1-type</key>
-				<data>
-				AAgAAA==
-				</data>
+				<data>AAgAAA==</data>
 				<key>framebuffer-con2-busid</key>
-				<data>
-				BgAAAA==
-				</data>
+				<data>BgAAAA==</data>
 				<key>framebuffer-con2-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con2-pipe</key>
-				<data>
-				CgAAAA==
-				</data>
+				<data>CgAAAA==</data>
 				<key>framebuffer-con2-type</key>
-				<data>
-				AAQAAA==
-				</data>
+				<data>AAQAAA==</data>
 				<key>framebuffer-fbmem</key>
-				<data>
-				AACQAA==
-				</data>
+				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-portcount</key>
-				<data>
-				BAAAAA==
-				</data>
+				<data>BAAAAA==</data>
 				<key>framebuffer-stolenmem</key>
-				<data>
-				AAAwAg==
-				</data>
+				<data>AAAwAg==</data>
 				<key>framebuffer-unifiedmem</key>
-				<data>
-				AAAAgA==
-				</data>
+				<data>AAAAgA==</data>
 				<key>model</key>
 				<string>Intel UHD Graphics 620</string>
 			</dict>
@@ -521,9 +422,7 @@
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>layout-id</key>
-				<data>
-				AwAAAA==
-				</data>
+				<data>AwAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -986,11 +885,9 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data>
-			</data>
+			<data></data>
 			<key>Cpuid1Mask</key>
-			<data>
-			</data>
+			<data></data>
 			<key>DummyPowerManagement</key>
 			<false/>
 			<key>MaxKernel</key>
@@ -1035,26 +932,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleRTC</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string>19.0.0</string>
 				<key>Replace</key>
-				<data>
-				ww==
-				</data>
+				<data>ww==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1070,26 +962,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleACPIPlatform</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string>18.5.0</string>
 				<key>MinKernel</key>
 				<string>18.5.0</string>
 				<key>Replace</key>
-				<data>
-				ww==
-				</data>
+				<data>ww==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1105,28 +992,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				6AAA//9miYMABQAA
-				</data>
+				<data>6AAA//9miYMABQAA</data>
 				<key>Identifier</key>
 				<string>com.apple.iokit.AppleBCM5701Ethernet</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				/wAA////////////
-				</data>
+				<data>/wAA////////////</data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>
-				uLQWAABmiYMABQAA
-				</data>
+				<data>uLQWAABmiYMABQAA</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1142,27 +1022,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Identifier</key>
 				<string>kernel</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>
-				MfaKD4TJdQT/xrEKZrr9A+yoIHT7Zrr4A4jI7kj/x4X2
-				dN/r/g==
-				</data>
+				<data>MfaKD4TJdQT/xrEKZrr9A+yoIHT7Zrr4A4jI7kj/x4X2dN/r/g==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1178,27 +1052,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Identifier</key>
 				<string>kernel</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>
-				MfaKD4TJdQT/xrEKZrr9A+yoIHT7Zrr4A4jI7kj/x4X2
-				dN/D
-				</data>
+				<data>MfaKD4TJdQT/xrEKZrr9A+yoIHT7Zrr4A4jI7kj/x4X2dN/D</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1214,27 +1082,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Identifier</key>
 				<string>kernel</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>
-				sUtmuv0D7KggdPtmuvgDiMjusQpmuv0D7KggdPtmuvgD
-				iMju6/4=
-				</data>
+				<data>sUtmuv0D7KggdPtmuvgDiMjusQpmuv0D7KggdPtmuvgDiMju6/4=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1250,27 +1112,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				RiV1VCUwNHgA
-				</data>
+				<data>RiV1VCUwNHgA</data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleBacklight</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>
-				RiV1VCUwNHg=
-				</data>
+				<data>RiV1VCUwNHg=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1286,27 +1142,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				SU9LaXQ=
-				</data>
+				<data>SU9LaXQ=</data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleIntelLpssI2C</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>
-				SU9LaXM=
-				</data>
+				<data>SU9LaXM=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1322,27 +1172,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				SU9LaXQ=
-				</data>
+				<data>SU9LaXQ=</data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleIntelLpssI2CController</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>
-				SU9LaXM=
-				</data>
+				<data>SU9LaXM=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1358,27 +1202,21 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				dkZI/wU=
-				</data>
+				<data>dkZI/wU=</data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>
-				60ZI/wU=
-				</data>
+				<data>60ZI/wU=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1435,8 +1273,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -1521,11 +1358,9 @@
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
-			<data>
-			</data>
+			<data></data>
 			<key>PasswordSalt</key>
-			<data>
-			</data>
+			<data></data>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
@@ -1562,37 +1397,27 @@
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<dict>
 				<key>DefaultBackgroundColor</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>UIScale</key>
-				<data>
-				Ag==
-				</data>
+				<data>Ag==</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
 				<key>rtc-blacklist</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>SystemAudioVolume</key>
-				<data>
-				Rg==
-				</data>
+				<data>Rg==</data>
 				<key>boot-args</key>
 				<string>-v alc-verbs=1 igfxonln=1 -cdfon -igfxlspcon -igfxtypec</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
-				<data>
-				5wMAAA==
-				</data>
+				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1659,14 +1484,13 @@
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>ROM</key>
-			<data>
-			</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,2</string>
+			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C02YH093JHCC</string>
 			<key>SystemUUID</key>
