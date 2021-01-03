@@ -1394,13 +1394,13 @@
 				<key>Auxiliary</key>
 				<true/>
 				<key>Comment</key>
-				<string>CFGLock.efi</string>
+				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>Name</key>
-				<string>CFGLock</string>
+				<string>VerifyMsrE2</string>
 				<key>Path</key>
-				<string>CFGLock.efi</string>
+				<string>VerifyMsrE2.efi</string>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>

@@ -5,13 +5,19 @@ Important:
 
 You need to unlock CFG:
 
-Run the here provided EFI folder from a USB stick and in the menu choose CFGLock.
+Unzip the RU.zip file to an empty FAT32 formatted USB disk, or unzip elsewhere and copy the BOOT folder to your EFI folder. Boot from it then press Enter to start. Press Alt + '=' and open CpuSetup. Go to 03 on left and 0C on top and press 00 to disable. Then press Ctrl + W to write to BIOS. Done!
 
 More info on CFG Locks: https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#what-is-cfg-lock (right register is 0x3C) 
 
+
+
+Important 2:  
+
+In the BIOS disable Secure Boot and Intel SGX (disables fingerprint reader)
+
 Works:
 
-- Everything: Touchscreen, trackpad, 4K-screen (@48Hz though), AppStore (Use GenSMBIOS on config.plist), Battery, Graphics, Wifi, Bluetooth, Sound (though no bass), Sleep.
+- Everything that can on Mac: Touchscreen, trackpad, 4K-screen (@48Hz though), AppStore (Use GenSMBIOS on config.plist), Battery, Graphics, Wifi, Bluetooth, Sound (though no bass), Sleep.
 
 Usage:
 
