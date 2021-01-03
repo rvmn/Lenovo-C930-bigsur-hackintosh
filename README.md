@@ -25,6 +25,8 @@ Postinstall:
 
 Alt-key is used as Command-key by default. You can switch by going to System Prefs -> Keyboard -> right-bottom button: 'Special keys' and switching alt and command.
 
+Connect WIFI: Start HeliPort app (see postinstall) and in sysprefs set it to autostart (Users -> Login Items) and hide the wifi icon in the top panel (Dock and menu -> Wifi).
+
 Multiboot: Use refind if you want to multiboot your system. Smartest is to install windows first and linux first, then clone mac to drive and copy opencore to EFI, then install refind.
 
 Credits:
