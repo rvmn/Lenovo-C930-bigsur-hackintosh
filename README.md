@@ -3,11 +3,15 @@ Hackintosh config for Lenovo C930 laptop on BigSur (OpenCore)
 
 Important:
 
-You need to unlock CFG, see: https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#what-is-cfg-lock (right register is 0x3F) 
+You need to unlock CFG:
+
+Run the here provided EFI folder from a USB stick and in the menu choose CFGLock.
+
+More info on CFG Locks: https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#what-is-cfg-lock (right register is 0x3C) 
 
 Works:
 
-- Everything: Touchscreen, trackpad, 4K-screen (@48Hz though), AppStore (Use GenSMBIOS on config.plist), Battery, Graphics, Wifi, Bluetooth, Sound (though no bass).
+- Everything: Touchscreen, trackpad, 4K-screen (@48Hz though), AppStore (Use GenSMBIOS on config.plist), Battery, Graphics, Wifi, Bluetooth, Sound (though no bass), Sleep.
 
 Usage:
 
