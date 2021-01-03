@@ -5,7 +5,7 @@ Important:
 
 You need to unlock CFG:
 
-Unzip the RU.zip file to an empty FAT32 formatted USB disk, or unzip elsewhere and copy the BOOT folder to your EFI folder. Boot from it then press Enter to start. Press Alt + '=' and open CpuSetup. Go to 03 on left and 0C on top and press 00 to disable. Then press Ctrl + W to write to BIOS. Done!
+Unzip the RU.zip file to an empty FAT32 formatted USB disk, or unzip elsewhere and copy the BOOT folder to your EFI folder. Boot from it then press Enter to start. Press Alt + '=' and open CpuSetup. Go to 03 on left and 0C on top and press 00, then press Enter. Then press Ctrl + W to write to BIOS and wit for a confirmation message. Done!
 
 More info on CFG Locks: https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#what-is-cfg-lock (right register is 0x3C) 
 
