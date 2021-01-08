@@ -5,10 +5,9 @@ Important:
 
 You need to unlock CFG:
 
-Unzip the RU.zip file to an empty FAT32 formatted USB disk, or unzip elsewhere and copy the BOOT folder to your EFI folder. Boot from it then press Enter to start. Press Alt + '=' and open CpuSetup. Go to 03 on left and 0C on top and press 00, then press Enter. Then press Ctrl + W to write to BIOS and wit for a confirmation message. Done!
+Unzip the RU.zip file to an empty FAT32 formatted USB disk, or unzip elsewhere and copy the BOOT folder to your EFI folder. Boot from it then press Enter to start. Press Alt + '=' and open CpuSetup. Go to 03 on left and 0C on top and press 00, then press Enter. Then press Ctrl + W to write to BIOS and wait for a confirmation message. Done!
 
-More info on CFG Locks: https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#what-is-cfg-lock (right register is 0x3C) 
-
+More info on CFG Locks: https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#what-is-cfg-lock
 
 
 Important 2:  
@@ -39,5 +38,5 @@ Credits:
 
 @navaira    https://www.tonymacx86.com/threads/guide-lenovo-yoga-c930-13ikb-4k-i7-8550u-99-working-updated-7-feb.270421/
 
-@JianGaming https://www.tonymacx86.com/threads/guide-dell-inspiron-15-7573-catalina-10-15-7-oc-0-6-0-i7-8550u-4k-uhd-620-best-100-simple-setup.305350/page-33
+@Mrqeque and @JianGaming https://www.tonymacx86.com/threads/guide-dell-inspiron-15-7573-catalina-10-15-7-oc-0-6-0-i7-8550u-4k-uhd-620-best-100-simple-setup.305350/page-33
 
